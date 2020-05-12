@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "841774292973",
+    "firebase_url": "https://eatforwhat-6077a.firebaseio.com",
+    "project_id": "eatforwhat-6077a",
+    "storage_bucket": "eatforwhat-6077a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841774292973:android:9308a0e3d1129af3a511e4",
+        "android_client_info": {
+          "package_name": "com.clyde.eatforwhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841774292973-hffasgp8c989v9bi0cki6o6vdseplpoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clyde.eatforwhat",
+            "certificate_hash": "4e6c2dbf9deb5b9c45858573dfe95dc14e2bbcbd"
+          }
+        },
+        {
+          "client_id": "841774292973-5cuhn5ri9o2b38shki6no4fbtp3tfb6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj42L2Mo2LZc9y92EHLG7OUGo8Y8VGD5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841774292973-5cuhn5ri9o2b38shki6no4fbtp3tfb6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841774292973:android:d7126435d9ae8fc5a511e4",
+        "android_client_info": {
+          "package_name": "com.example.eatforwhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841774292973-tb0tll5k8c6ff818cf0kg4s5i3h8o39a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatforwhat",
+            "certificate_hash": "4e6c2dbf9deb5b9c45858573dfe95dc14e2bbcbd"
+          }
+        },
+        {
+          "client_id": "841774292973-5cuhn5ri9o2b38shki6no4fbtp3tfb6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj42L2Mo2LZc9y92EHLG7OUGo8Y8VGD5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841774292973-5cuhn5ri9o2b38shki6no4fbtp3tfb6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
